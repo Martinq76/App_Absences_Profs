@@ -1,0 +1,19 @@
+{
+  "name": "appforprof",
+  "version": "0.1.0",
+  "description": "Petit script pour calculer le taux de présence au sein d'ue",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martinq76/App_Absences_Profs.git"
+  },
+  "author": "Martinq76 <martin.queguiner.42@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martinq76/App_Absences_Profs/issues"
+  },
+  "homepage": "https://github.com/Martinq76/App_Absences_Profs#readme"
+}
